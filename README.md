@@ -15,3 +15,10 @@
 TensorFlow Object Detection API: https://github.com/tensorflow/models/tree/master/research/object_detection
 
 Darkflow: https://github.com/thtrieu/darkflow
+
+## Results Achieved
+
+![output](https://github.com/HenriqueOliveira18/Traffic-Sign-Recognition/assets/112505611/c831854e-4f53-45c6-b54a-b4e7f2b9b84a)
+
+https://github.com/HenriqueOliveira18/Traffic-Sign-Recognition/assets/112505611/25521b87-7ea2-42ef-9ea7-cc6f303135f9
+
